@@ -2,7 +2,7 @@
 
 ## Contexto
 
-A base de dados que será estudada nesse projeto consta com diversas informações de saúde de pacientes localizados no Hospital de Frankfurt, na Alemanha. A base é destinada a informar quais são os pacientes com ou sem diabetes
+A base de dados que será estudada nesse projeto contém diversas informações de saúde de pacientes localizados no Hospital de Frankfurt, na Alemanha. Através dela podemos ver quais são os pacientes com ou sem diabetes
 
 
 ## Objetivo
